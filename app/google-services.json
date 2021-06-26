@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "961067181939",
+    "project_id": "west-bengla-all-book",
+    "storage_bucket": "west-bengla-all-book.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961067181939:android:05c7959f5820830d494706",
+        "android_client_info": {
+          "package_name": "westbengal.book"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961067181939-e9nml45jl6aikctkk2fpp1q6ldk5i6rb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJkA2SSt5mW_rTLE7OqE-O0TQ2UAzvSg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961067181939-e9nml45jl6aikctkk2fpp1q6ldk5i6rb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
